@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chady</string>
+    <string name="click_me">More option</string>
+    <string name="click_me_also1">click me also</string>
+    <string name="title">What do you want to do ?</string>
+    <string name="supporting_text">Choose an option</string>
+    <string name="cancel">Cancel</string>
+    <string name="decline">Decline</string>
+    <string name="accept">Accept</string>
+    <string name="Permission">Permit</string>
+    <string name="Localisation">Permit location</string>
+    <string name="local">Permit location</string>
+    <string name="passer">Go to recycle view</string>
+    <string name="scan_ended">End of scan</string>
+    <string name="not_compatible">Not compatible</string>
+    <string name="connected_to">Connected to</string>
+    <string name="deconnection">Deconnection</string>
+    <string name="start_scan">Start scan</string>
+    <string name="fenetre">Window</string>
+    <string name="uuid_not_found">Id not found</string>
+    <string name="not_connected">not connected</string>
+    <string name="enable_ble_notifications">Enable ble notifications</string>
+    <string name="startScan">Start scan</string>
+    <string name="currentConnexion">current connection</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="toggleLed">Toggle led</string>
+    <string name="ledStatus">Led status</string>
+    <string name="localisation">Location</string>
+</resources>

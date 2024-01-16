@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">annuler</string>
+    <string name="decline">Refus</string>
+    <string name="accept">Je veux bien</string>
+    <string name="Permission" >Permettre</string>
+</resources>
